@@ -1,0 +1,119 @@
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\bin\Debug\BACP Solution.exe.config
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\bin\Debug\BACP Solution.exe
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\bin\Debug\BACP Solution.pdb
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP Solution.exe
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP Solution.pdb
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+C:\Users\PC\Desktop\BACP Solution\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP Solution.exe
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\bin\Debug\BACP Solution.exe
+C:\Users\Fisnik\Desktop\BACP Solution_04.11.2015\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_04.11.2015_ReadFromFile\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\bin\Debug\BACP Solution.exe.config
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP Solution.exe
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP Solution.pdb
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\bin\Debug\BACP Solution.exe
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\bin\Debug\BACP Solution.pdb
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+C:\Users\Petrit Rama\Downloads\BACP Solution_04.11.2015_with changes during lab exercises\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.exe.config
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.exe
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.pdb
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.exe
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\bin\Debug\BACP Solution.pdb
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+C:\Users\Kreshnik\Desktop\11-Nentor-2015\BACP Solution_11.11.2015_before lectures _petrit rama\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_18.11.2015\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_01.12.2015\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP Solution.exe
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\bin\Debug\BACP Solution.exe
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\bin\Debug\BACP Solution.pdb
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_02.12.2015\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_09.12.2015\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_16.12.2015\BACP Solution\bin\Debug\BACP Solution.exe.config
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_16.12.2015\BACP Solution\obj\Debug\BACP Solution.exe
+E:\FIEK\2015-16\Algoritmet e Inspiruara nga Natyra\BACP Solution_16.12.2015\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\FIEK\Master\Algoritmet e Inspiruara nga Natyra\2015-2016\Problemet\Balanced Academic Curriculum Problem (BACP)\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe.config
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.exe
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.pdb
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.pdb
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+D:\Konferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe.config
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.exe
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.pdb
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.exe
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\bin\Debug\BACP Solution.pdb
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csprojResolveAssemblyReference.cache
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Form1.resources
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP_Solution.Properties.Resources.resources
+E:\Konnferencat dhe revistat\BACP\BACP Solution_2016\BACP Solution\obj\Debug\BACP Solution.csproj.GenerateResource.Cache
